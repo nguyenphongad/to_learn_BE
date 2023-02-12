@@ -1,0 +1,29 @@
+{
+  "name": "to_learn_be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenphongad/to_learn_BE.git"
+  },
+  "keywords": [
+    "to_learn_BE"
+  ],
+  "author": "phong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenphongad/to_learn_BE/issues"
+  },
+  "homepage": "https://github.com/nguyenphongad/to_learn_BE#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
